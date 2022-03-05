@@ -1,2 +1,8 @@
 # ninja log v5
-91	241	6679156702647383	C_Programming.exe	ae55c832784f652e
+1	134	6681717799792155	C_Programming.exe	b29c105debd5337c
+1	112	6681714221365681	CMakeFiles/C_Programming.dir/1)_Getting_Started/Program1.c.obj	7f51cdcdb0aaf08a
+2	100	6681717010332139	CMakeFiles/C_Programming.dir/1)_Getting_Started/Program2.c.obj	8fa9532b99ad869a
+0	99	6681731756795955	CMakeFiles/C_Programming.dir/1)_Getting_Started/Program3.c.obj	86dc1c8dafbd50d6
+101	225	6681731758037111	C_Programming.exe	406f29853be2f982
+1	91	6681732119125697	CMakeFiles/C_Programming.dir/1)_Getting_Started/Program3.c.obj	86dc1c8dafbd50d6
+92	210	6681732120295563	C_Programming.exe	406f29853be2f982
