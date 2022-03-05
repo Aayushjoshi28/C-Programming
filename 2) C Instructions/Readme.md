@@ -1,4 +1,4 @@
-#Chapter 2: C Instructions
+# Chapter 2: C Instructions
 
 ## Types of Instructions
 
@@ -31,7 +31,7 @@ Follow the BODMAS Rule
 #### Associativity of Operators
 Whenever there is a tie between two arithmetic operator it can be solved using left to right.
 
-###Control Instructions
+### Control Instructions
 They determine the flow of the program.
 
 There are four types of control instructions in C.
