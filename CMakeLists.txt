@@ -6,4 +6,4 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(C_Programming
-         "1) Getting Started/Program3.c")
+        "3) Decision Control Instruction/Program1.c")
