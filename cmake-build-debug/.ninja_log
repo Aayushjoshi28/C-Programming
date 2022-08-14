@@ -1,3 +1,4 @@
 # ninja log v5
-1	261	6715479556483960	build.ninja	5be787ba3a265b50
-80	193	6683463383447153	C_Programming.exe	704a3b83a7dca287
+1	261	6821560299562974	build.ninja	5be787ba3a265b50
+114	195	6821559612668254	C_Programming.exe	a350abbb69b6a6c0
+1	114	6821559611887003	CMakeFiles/C_Programming.dir/3)_Decision_Control_Instruction/Program1.c.obj	ac215bd075eb9296
